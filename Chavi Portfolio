@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+    <title>Portfolio Website</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Chavi</a>
+
+            <nav>
+                <a href="#" class="active">Home</a>
+                <a href="#" >Services</a>
+                <a href="#" >Skills</a>
+                <a href="#" >Education</a>
+                <a href="#" >Experience</a>
+                <a href="#" >Contact</a>
+            </nav>
+    </header>
+    <section class="home">
+        <div class="home-img">
+          <img scr="main.jpg" alt="">
+        </div>
+        <div class="home-content">
+                <h1>Hi,Its <span>Chavi</span></h1>
+                <h3 class="tying-text">I'm a <span>Front-end Developer</span></h3>
+                <p>front-end developer based in Mauritius. I have developed many types of front-ends from well knownDJ applications. Im passionate about beautiful interfaces, pixel-perfect and implemented UX.</p>
+                <div class="social-icons"
+                  <a href="#"><i class="fa-bands fa-linkedin"></i></a>
+                  <a href="#"><i class="fa-bands fa-github"></i></a>
+                  <a href="#"><i class="fa-bands fa-x-twitter"></i></a>
+            </div>
+            <a href="#" class="btn">Hire me</a>
+        </div>
+    
+</html>
